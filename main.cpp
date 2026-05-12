@@ -171,7 +171,7 @@ void setup() {
 
   // Instructions for connecting from a phone or laptop
   Serial.println("Webserver started");
-  Serial.println("ESP32 is ready for use");
+  Serial.println("ESP32WiFi is ready for use");
   Serial.println("Go on your telephone:");
   Serial.println("1. Go to wiFi settings");
   Serial.println("2. Connect to WiFi > MyESP32");
